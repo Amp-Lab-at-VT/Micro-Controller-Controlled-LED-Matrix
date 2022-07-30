@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: Micro Controller Controlled LED Matrix
