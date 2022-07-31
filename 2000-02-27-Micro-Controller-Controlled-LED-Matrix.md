@@ -3,8 +3,8 @@ layout: project_template
 title: Micro Controller Controlled LED Matrix
 description: This is a micro controller controlled LED matrix, the LED matrix can be used as an information display. The information is transferred with UART communication protocol.( bluetooth connection with cellphone may be added later).
 date: 2000-02-27 09:00:00
-hero_image: /web/img/Micro-Controller-Controlled-LED-Matrix/open_house.png
-image: /web/img/Micro-Controller-Controlled-LED-Matrix/open_house.png
+hero_image: /web/img/Micro-Controller-Controlled-LED-Matrix/Hero.png
+image: /web/img/Micro-Controller-Controlled-LED-Matrix/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
