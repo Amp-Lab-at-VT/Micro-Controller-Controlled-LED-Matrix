@@ -21,7 +21,7 @@ Yijie Bai
 Tyler Shaffer
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Micro-Controller-Controlled-LED-Matrix"" >Micro-Controller-Controlled-LED-Matrix</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Micro-Controller-Controlled-LED-Matrix" >Micro-Controller-Controlled-LED-Matrix</a>
 
 ## Photo
 
